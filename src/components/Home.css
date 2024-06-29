@@ -1,0 +1,29 @@
+.home {
+  margin-top: 70px;
+}
+
+.home__heading {
+  font-size: 2rem;
+}
+
+.activity-card {
+  list-style: none;
+  border-radius: 6px;
+  border: 2px solid black;
+  padding: 5px;
+  margin: 10px;
+  text-align: left;
+  position: relative;
+}
+
+.activity-card__title {
+  color: #f1356d;
+  text-align: left;
+}
+
+.emoji {
+  font-size: 5rem;
+  position: absolute;
+  top: -5rem;
+  right: 3rem;
+}
